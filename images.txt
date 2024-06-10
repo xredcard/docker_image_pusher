@@ -19,7 +19,6 @@ jeessy/ddns-go
 linuxserver/emby
 portainer/portainer
 nextcloud
-xiaoyaliu/alist
 zack357/douban-tool
 nevinee/qbittorrent
 mrdeer1997/nas-tool:2.9.1
