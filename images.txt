@@ -1,4 +1,5 @@
 alpine
+mariadb
 nginx
 redis
 mongo:4.4.18
@@ -15,7 +16,16 @@ hectorqin/reader
 xhofe/alist
 whyour/qinglong:2.10.12
 jeessy/ddns-go
-campus-imt-v106-campus-server
-ghcr.nju.edu.cn/home-assistant/home-assistant:stable
-nodered/node-red:3.0.2
-luolongfei/freenom
+linuxserver/emby
+portainer/portainer
+nextcloud
+xiaoyaliu/alist
+zack357/douban-tool
+nevinee/qbittorrent
+mrdeer1997/nas-tool:2.9.1
+nastool/nas-tools
+homeassistant/home-assistant
+linuxserver/transmission
+linuxserver/plex
+gotify/server
+oddfar/campus-imaotai
