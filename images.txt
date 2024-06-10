@@ -28,3 +28,4 @@ linuxserver/transmission
 linuxserver/plex
 gotify/server
 oddfar/campus-imaotai
+ailg/alist
