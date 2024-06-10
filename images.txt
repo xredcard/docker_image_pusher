@@ -2,4 +2,12 @@ alpine
 python:alpine3.19
 kasmweb/nginx:1.25.3
 --platform linux/arm64 cooderl/wewe-rss-sqlite:latest
-
+nyanmisaka/jellyfin
+linuxserver/jackett
+allanpk716/chinesesubfinder
+a76yyyy/qiandao
+corentinth/it-tools
+hectorqin/reader
+xhofe/alist
+whyour/qinglong:2.10.12
+jeessy/ddns-go
